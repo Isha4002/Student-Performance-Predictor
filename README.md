@@ -20,3 +20,8 @@ If a student studies for 10 hours, the model predicts a score of approximately 1
 
 ## Model Equation
 Score = 10 × Hours + 5
+
+
+## Output Graph
+
+![Output](graph.png)
